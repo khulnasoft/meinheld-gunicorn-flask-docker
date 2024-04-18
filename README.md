@@ -431,6 +431,8 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* test. PR [#11](https://github.com/khulnasoft/meinheld-gunicorn-flask-docker/pull/11) by [@FortiShield](https://github.com/FortiShield).
+
 #### Internal
 
 * 🔧 Add GitHub templates for discussions and issues, and security policy. PR [#146](https://github.com/khulnasoft/meinheld-gunicorn-flask-docker/pull/146) by [@alejsdev](https://github.com/alejsdev).
