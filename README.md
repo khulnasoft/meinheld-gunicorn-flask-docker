@@ -431,6 +431,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆ Bump docker/build-push-action from 2 to 5. PR [#3](https://github.com/khulnasoft/meinheld-gunicorn-flask-docker/pull/3) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/login-action from 1 to 3. PR [#7](https://github.com/khulnasoft/meinheld-gunicorn-flask-docker/pull/7) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/setup-buildx-action from 1 to 3. PR [#2](https://github.com/khulnasoft/meinheld-gunicorn-flask-docker/pull/2) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/setup-python from 4 to 5. PR [#5](https://github.com/khulnasoft/meinheld-gunicorn-flask-docker/pull/5) by [@dependabot[bot]](https://github.com/apps/dependabot).
