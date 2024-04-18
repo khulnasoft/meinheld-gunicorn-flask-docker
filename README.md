@@ -431,6 +431,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆ Bump actions/setup-python from 4 to 5. PR [#5](https://github.com/khulnasoft/meinheld-gunicorn-flask-docker/pull/5) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * test. PR [#11](https://github.com/khulnasoft/meinheld-gunicorn-flask-docker/pull/11) by [@FortiShield](https://github.com/FortiShield).
 
 #### Internal
